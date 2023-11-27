@@ -1,4 +1,4 @@
-![image](https://github.com/Endermen359872/grade11Java/assets/78783001/63b31108-3136-41a3-ac14-002549819b8e)![image](https://github.com/Endermen359872/grade11Java/assets/78783001/bb8e507c-f0bc-40a6-a1a4-338c1dd6827f)GZHU grade 11 Java experiments personal backup.
+GZHU grade 11 Java experiments personal backup.
 =====
 This repository is created for personal backup.  
 Highly NOT recommand using codes in this repo to submit homework.  
